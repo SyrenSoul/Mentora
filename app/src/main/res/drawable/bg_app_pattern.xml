@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- base color -->
+    <item>
+        <shape>
+            <solid android:color="#FAF7FC"/>
+        </shape>
+    </item>
+
+    <!-- subtle pattern -->
+    <item>
+        <bitmap
+            android:src="@drawable/bg_pattern"
+            android:gravity="center"/>
+    </item>
+
+</layer-list>
